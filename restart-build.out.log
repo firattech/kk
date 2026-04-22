@@ -1,0 +1,1214 @@
+
+> lampa@0.0.1 start
+> gulp
+
+[[90m12:21:27[39m] Using gulpfile ~\Downloads\lampa-source-main\lampa-source-main\gulpfile.js
+[[90m12:21:27[39m] Starting 'default'...
+[[90m12:21:27[39m] Starting 'watch'...
+[[90m12:21:27[39m] Starting 'browser_sync'...
+[[90m12:21:27[39m] Finished 'watch' after 6.35 ms
+[[90m12:21:27[39m] Finished 'browser_sync' after 20 ms
+[[90m12:21:27[39m] Finished 'default' after 26 ms
+[Browsersync] Access URLs:
+ ----------------------------
+ Local: http://localhost:3000
+ ----------------------------
+    UI: http://localhost:3001
+ ----------------------------
+[Browsersync] Serving files from: ./build/web/
+File src\app.js has been added
+File public\index.html has been added
+File public\youtube.html has been added
+File src\core\android.js has been added
+File src\core\component.js has been added
+File src\core\content_rows.js has been added
+File src\core\controller.js has been added
+File src\core\demo.js has been added
+File src\core\favorite.js has been added
+File src\core\https.js has been added
+File src\core\iptv.js has been added
+File src\core\keypad.js has been added
+File src\core\lang.js has been added
+File src\core\layer.js has been added
+File src\core\loading.js has been added
+File src\core\manifest.js has been added
+File src\core\markers.js has been added
+File src\core\mirrors.js has been added
+File src\core\orsay.js has been added
+File src\core\personal.js has been added
+File src\core\platform.js has been added
+File src\core\plugins.js has been added
+File src\core\recomend.js has been added
+File src\core\router.js has been added
+File src\core\socket.js has been added
+File src\core\sound.js has been added
+File src\core\switcher.js has been added
+File src\core\theme.js has been added
+File src\core\timer.js has been added
+File src\core\timetable.js has been added
+File src\core\tizen.js has been added
+File src\core\tracker.js has been added
+File src\core\vlc.js has been added
+File src\core\vpn.js has been added
+File src\lang\be.js has been added
+File src\lang\bg.js has been added
+File src\lang\cs.js has been added
+File src\lang\en.js has been added
+File src\lang\fr.js has been added
+File src\lang\he.js has been added
+File src\lang\meta.js has been added
+File src\lang\pt.js has been added
+File src\lang\README.md has been added
+File src\lang\ro.js has been added
+File src\lang\ru.js has been added
+File src\lang\uk.js has been added
+File src\lang\zh.js has been added
+File src\interaction\app.js has been added
+File src\interaction\background.js has been added
+File src\interaction\bell.js has been added
+File src\interaction\broadcast.js has been added
+File src\interaction\card.js has been added
+File src\interaction\console.js has been added
+File src\interaction\constructor.js has been added
+File src\interaction\database.js has been added
+File src\interaction\developer.js has been added
+File src\interaction\device_input.js has been added
+File src\interaction\endless.js has been added
+File src\interaction\explorer.js has been added
+File src\interaction\files_old.js has been added
+File src\interaction\filter.js has been added
+File src\interaction\helper.js has been added
+File src\interaction\iframe.js has been added
+File src\interaction\info_old.js has been added
+File src\interaction\lang.js has been added
+File src\interaction\loading.js has been added
+File src\interaction\loading_progress.js has been added
+File src\interaction\logs.js has been added
+File src\interaction\maker.js has been added
+File src\interaction\modal.js has been added
+File src\interaction\more.js has been added
+File src\interaction\navigation_bar.js has been added
+File src\interaction\noty.js has been added
+File src\interaction\parental_control.js has been added
+File src\interaction\player.js has been added
+File src\interaction\processing.js has been added
+File src\interaction\remote_helper.js has been added
+File src\interaction\render.js has been added
+File src\interaction\screensaver.js has been added
+File src\interaction\scroll.js has been added
+File src\interaction\search_input.js has been added
+File src\interaction\select.js has been added
+File src\interaction\speedtest.js has been added
+File src\interaction\storage_manager.js has been added
+File src\interaction\template.js has been added
+File src\interaction\timeline.js has been added
+File src\interaction\torrent.js has been added
+File src\interaction\torserver.js has been added
+File src\interaction\warning.js has been added
+File src\interaction\watched_history.js has been added
+File src\interaction\webos_launcher.js has been added
+File src\interaction\youtube.js has been added
+File src\config\makra.js has been added
+File src\components\bookmarks.js has been added
+File src\components\company.js has been added
+File src\components\discuss.js has been added
+File src\components\episodes.js has been added
+File src\components\facts.js has been added
+File src\components\favorite.js has been added
+File src\components\feed.js has been added
+File src\components\full.js has been added
+File src\components\main.js has been added
+File src\components\myperson.js has been added
+File src\components\mytorrents.js has been added
+File src\components\nocomponent.js has been added
+File src\components\person.js has been added
+File src\components\recomend.js has been added
+File src\components\recommendations.js has been added
+File src\components\relise.js has been added
+File src\components\subscribes.js has been added
+File src\components\timetable.js has been added
+File src\components\torrents.js has been added
+File src\utils\arrays.js has been added
+File src\utils\base64.js has been added
+File src\utils\blur.js has been added
+File src\utils\cache.js has been added
+File src\utils\color.js has been added
+File src\utils\db.js has been added
+File src\utils\emit.js has been added
+File src\utils\episodes_parser.js has been added
+File src\utils\event.js has been added
+File src\utils\machine.js has been added
+File src\utils\mask.js has been added
+File src\utils\progress.js has been added
+File src\utils\props.js has been added
+File src\utils\reguest.js has been added
+File src\utils\status.js has been added
+File src\utils\subscribe.js has been added
+File src\utils\task.js has been added
+File src\utils\utils.js has been added
+File src\utils\worker.js has been added
+File src\sass\app.scss has been added
+File src\templates\about.js has been added
+File src\templates\account.js has been added
+File src\templates\account_limited.js has been added
+File src\templates\activity.js has been added
+File src\templates\activitys.js has been added
+File src\templates\activity_wait_refresh.js has been added
+File src\templates\bookmarks_folder.js has been added
+File src\templates\broadcast.js has been added
+File src\templates\card.js has been added
+File src\templates\card_episode.js has been added
+File src\templates\card_parser.js has been added
+File src\templates\card_watched.js has been added
+File src\templates\company.js has been added
+File src\templates\console.js has been added
+File src\templates\cub_premium.js has been added
+File src\templates\cub_premium_modal.js has been added
+File src\templates\discuss_rules.js has been added
+File src\templates\error.js has been added
+File src\templates\files.js has been added
+File src\templates\filter.js has been added
+File src\templates\head.js has been added
+File src\templates\head_backward.js has been added
+File src\templates\https.js has been added
+File src\templates\iframe.js has been added
+File src\templates\info_old.js has been added
+File src\templates\lang.js has been added
+File src\templates\list_empty.js has been added
+File src\templates\menu.js has been added
+File src\templates\modal.js has been added
+File src\templates\modal_loading.js has been added
+File src\templates\modal_pending.js has been added
+File src\templates\modal_qr.js has been added
+File src\templates\more.js has been added
+File src\templates\navigation_bar.js has been added
+File src\templates\notice.js has been added
+File src\templates\notice_card.js has been added
+File src\templates\player.js has been added
+File src\templates\plugins_catalog.js has been added
+File src\templates\plugins_rule.js has been added
+File src\templates\register.js has been added
+File src\templates\remote_helper.js has been added
+File src\templates\screensaver.js has been added
+File src\templates\scroll.js has been added
+File src\templates\search.js has been added
+File src\templates\settings.js has been added
+File src\templates\speedtest.js has been added
+File src\templates\styles.js has been added
+File src\templates\timeline.js has been added
+File src\templates\timeline_details.js has been added
+File src\templates\warning.js has been added
+File src\templates\wrap.js has been added
+File src\templates\watched_history.js has been added
+File src\services\developer.js has been added
+File src\services\events.js has been added
+File src\services\children.js has been added
+File src\services\dmca.js has been added
+File src\services\fps.js has been added
+File src\services\lgbt.js has been added
+File src\services\libs.js has been added
+File src\services\metric.js has been added
+File src\services\remote_favorites.js has been added
+File src\services\settings.js has been added
+File src\services\torrserver.js has been added
+File src\services\watched.js has been added
+File plugins\halloween\halloween.js has been added
+File plugins\iptv\component.js has been added
+File plugins\iptv\iptv.js has been added
+File plugins\iptv\lang.js has been added
+File plugins\iptv\settings.js has been added
+File plugins\iptv\templates.js has been added
+File plugins\collections\api.js has been added
+File plugins\collections\category.js has been added
+File plugins\collections\collection.js has been added
+File plugins\collections\collections.js has been added
+File plugins\collections\main.js has been added
+File plugins\collections\view.js has been added
+File plugins\dlna\component.js has been added
+File plugins\dlna\dlna.js has been added
+File plugins\online\cdnmovies.js has been added
+File plugins\online\collaps.js has been added
+File plugins\online\filmix.js has been added
+File plugins\online\component.js has been added
+File plugins\online\kinobase.js has been added
+File plugins\online\online.js has been added
+File plugins\online\rezka.js has been added
+File plugins\online\videocdn.js has been added
+File plugins\online_prestige\component.js has been added
+File plugins\online_prestige\online_prestige.js has been added
+File plugins\etor\etor.js has been added
+File plugins\snow\snow.js has been added
+File plugins\snow\garland.js has been added
+File plugins\snow\template.js has been added
+File plugins\shots\defined.js has been added
+File plugins\shots\shots.js has been added
+File plugins\radio\component.js has been added
+File plugins\radio\item.js has been added
+File plugins\radio\line.js has been added
+File plugins\radio\player.js has been added
+File plugins\radio\radio.js has been added
+File plugins\tmdb_proxy\tmdb_proxy.js has been added
+File public\img\actor.svg has been added
+File public\img\empty.svg has been added
+File public\img\error.svg has been added
+File public\img\img_broken.svg has been added
+File public\img\img_load.svg has been added
+File public\img\loader.svg has been added
+File public\img\logo-icon.svg has been added
+File public\img\logo.svg has been added
+File public\img\video_poster.png has been added
+File public\img\welcome.jpg has been added
+File plugins\view_plugin\view_plugin.js has been added
+File plugins\record\component.js has been added
+File plugins\record\record.js has been added
+File plugins\tracks\tracks.js has been added
+File plugins\womens-day\womens-day.js has been added
+File plugins\twolines\twolines.js has been added
+File public\sound\bell.ogg has been added
+File public\sound\hover.ogg has been added
+File public\css\app.css has been added
+File src\core\module\callback.js has been added
+File src\core\module\scroll.js has been added
+File src\core\module\visible.js has been added
+File src\core\storage\storage.js has been added
+File src\core\storage\workers.js has been added
+File src\core\account\account.js has been added
+File src\core\account\api.js has been added
+File src\core\account\backup.js has been added
+File src\core\account\bookmarks.js has been added
+File src\core\account\device.js has been added
+File src\core\account\listener.js has been added
+File src\core\account\modal.js has been added
+File src\core\account\panel.js has been added
+File src\core\account\permit.js has been added
+File src\core\account\profile.js has been added
+File src\core\account\timeline.js has been added
+File src\core\api\api.js has been added
+File src\core\tmdb\keys.js has been added
+File src\core\tmdb\proxy.js has been added
+File src\core\tmdb\tmdb.js has been added
+File src\interaction\advert\bot.js has been added
+File src\interaction\advert\card.js has been added
+File src\interaction\advert\extend.js has been added
+File src\interaction\advert\manager.js has been added
+File src\interaction\advert\offer.js has been added
+File src\interaction\advert\premiere.js has been added
+File src\interaction\advert\preroll.js has been added
+File src\interaction\advert\vast_2.js has been added
+File src\interaction\advert\vast_3.js has been added
+File src\interaction\advert\vast_manager.js has been added
+File src\interaction\advert\video.js has been added
+File src\interaction\advert\watched.js has been added
+File src\interaction\activity\activity.js has been added
+File src\interaction\activity\slide.js has been added
+File src\interaction\card_parser\card_parser.js has been added
+File src\interaction\company\company.js has been added
+File src\interaction\card\base.js has been added
+File src\interaction\card\card.js has been added
+File src\interaction\empty\empty.js has been added
+File src\interaction\content_filter\data.js has been added
+File src\interaction\content_filter\menu.js has been added
+File src\interaction\discuss\discuss.js has been added
+File src\interaction\events\birthday.js has been added
+File src\interaction\head\backward.js has been added
+File src\interaction\head\head.js has been added
+File src\interaction\episode\episode.js has been added
+File src\interaction\extensions\add.js has been added
+File src\interaction\extensions\extensions.js has been added
+File src\interaction\extensions\extension.js has been added
+File src\interaction\extensions\item.js has been added
+File src\interaction\extensions\line.js has been added
+File src\interaction\extensions\main.js has been added
+File src\interaction\extensions\recomend.js has been added
+File src\interaction\extensions\screensaver.js has been added
+File src\interaction\extensions\theme.js has been added
+File src\interaction\extensions\utils.js has been added
+File src\interaction\keyboard\keyboard.js has been added
+File src\interaction\keyboard\layers.js has been added
+File src\interaction\items\category.js has been added
+File src\interaction\items\main.js has been added
+File src\interaction\items\line.js has been added
+File src\interaction\notice\all.js has been added
+File src\interaction\notice\cub.js has been added
+File src\interaction\notice\class.js has been added
+File src\interaction\notice\lampa.js has been added
+File src\interaction\notice\notice.js has been added
+File src\interaction\person\person.js has been added
+File src\interaction\menu\editor.js has been added
+File src\interaction\menu\menu.js has been added
+File src\interaction\register\register.js has been added
+File src\interaction\search\global.js has been added
+File src\interaction\search\history.js has been added
+File src\interaction\search\results.js has been added
+File src\interaction\search\sources.js has been added
+File src\interaction\player\footer.js has been added
+File src\interaction\player\info.js has been added
+File src\interaction\player\iptv.js has been added
+File src\interaction\player\normalization.js has been added
+File src\interaction\player\orsay.js has been added
+File src\interaction\player\panel.js has been added
+File src\interaction\player\playlist.js has been added
+File src\interaction\player\segments.js has been added
+File src\interaction\player\subs.js has been added
+File src\interaction\player\tizen.js has been added
+File src\interaction\player\video.js has been added
+File src\interaction\player\webos.js has been added
+File src\interaction\player\webos_subp.js has been added
+File src\interaction\player\youtube.js has been added
+File src\interaction\season\season.js has been added
+File src\interaction\screensaver\aerial.js has been added
+File src\interaction\screensaver\chrome.js has been added
+File src\interaction\screensaver\cub.js has been added
+File src\interaction\screensaver\nature.js has been added
+File src\components\category\full.js has been added
+File src\components\category\main.js has been added
+File src\interaction\settings\api.js has been added
+File src\interaction\settings\component.js has been added
+File src\interaction\settings\input.js has been added
+File src\interaction\settings\main.js has been added
+File src\interaction\settings\params.js has been added
+File src\interaction\settings\settings.js has been added
+File src\templates\ai\search_animation.js has been added
+File src\components\full\cards.js has been added
+File src\components\full\descr.js has been added
+File src\components\full\discuss.js has been added
+File src\components\full\episodes.js has been added
+File src\components\full\persons.js has been added
+File src\components\full\start.js has been added
+File src\sass\components\about.scss has been added
+File src\sass\components\account.scss has been added
+File src\sass\components\activitys.scss has been added
+File src\sass\components\ad.scss has been added
+File src\sass\components\ai.scss has been added
+File src\sass\components\animation.scss has been added
+File src\sass\components\background.scss has been added
+File src\sass\components\bell.scss has been added
+File src\sass\components\birthday.scss has been added
+File src\sass\components\bookmarks_folder.scss has been added
+File src\sass\components\broadcast.scss has been added
+File src\sass\components\button.scss has been added
+File src\sass\components\card.scss has been added
+File src\sass\components\card_episode.scss has been added
+File src\sass\components\card_parser.scss has been added
+File src\sass\components\card_watched.scss has been added
+File src\sass\components\category.scss has been added
+File src\sass\components\cols.scss has been added
+File src\sass\components\company.scss has been added
+File src\sass\components\console.scss has been added
+File src\sass\components\cub_premium.scss has been added
+File src\sass\components\discuss_rules.scss has been added
+File src\sass\components\empty.scss has been added
+File src\sass\components\episode.scss has been added
+File src\sass\components\error.scss has been added
+File src\sass\components\explorer.scss has been added
+File src\sass\components\extensions.scss has been added
+File src\sass\components\feed.scss has been added
+File src\sass\components\files.scss has been added
+File src\sass\components\glass.scss has been added
+File src\sass\components\head.scss has been added
+File src\sass\components\head_backward.scss has been added
+File src\sass\components\helper.scss has been added
+File src\sass\components\https.scss has been added
+File src\sass\components\iframe.scss has been added
+File src\sass\components\info.scss has been added
+File src\sass\components\items.scss has been added
+File src\sass\components\keyboard.scss has been added
+File src\sass\components\lang.scss has been added
+File src\sass\components\light.scss has been added
+File src\sass\components\loading_layer.scss has been added
+File src\sass\components\main.scss has been added
+File src\sass\components\mapping.scss has been added
+File src\sass\components\menu.scss has been added
+File src\sass\components\modal.scss has been added
+File src\sass\components\more.scss has been added
+File src\sass\components\navigation-tabs.scss has been added
+File src\sass\components\navigation_bar.scss has been added
+File src\sass\components\nonetwork.scss has been added
+File src\sass\components\notice.scss has been added
+File src\sass\components\noty.scss has been added
+File src\sass\components\online.scss has been added
+File src\sass\components\orsay.scss has been added
+File src\sass\components\pincode.scss has been added
+File src\sass\components\plugins_catalog.scss has been added
+File src\sass\components\player.scss has been added
+File src\sass\components\processing.scss has been added
+File src\sass\components\radio.scss has been added
+File src\sass\components\reaction.scss has been added
+File src\sass\components\register.scss has been added
+File src\sass\components\remote_helper.scss has been added
+File src\sass\components\screensaver.scss has been added
+File src\sass\components\scroll.scss has been added
+File src\sass\components\season.scss has been added
+File src\sass\components\settings.scss has been added
+File src\sass\components\smart.scss has been added
+File src\sass\components\speedtest.scss has been added
+File src\sass\components\tag_count.scss has been added
+File src\sass\components\timeline.scss has been added
+File src\sass\components\timetable.scss has been added
+File src\sass\components\torrent.scss has been added
+File src\sass\components\touch.scss has been added
+File src\sass\components\warning.scss has been added
+File src\sass\components\watched_history.scss has been added
+File src\sass\components\welcome.scss has been added
+File src\sass\components\wrap.scss has been added
+File src\sass\components\youtube.scss has been added
+File src\utils\define\define.js has been added
+File src\utils\define\promise.js has been added
+File src\utils\subsrt\subsrt.js has been added
+File src\templates\account\add_device.js has been added
+File src\templates\account\none.js has been added
+File src\templates\account\add_device_old.js has been added
+File src\templates\account\premium.js has been added
+File src\utils\worker\json.js has been added
+File src\utils\worker\utils.js has been added
+File src\utils\worker\blur.js has been added
+File src\components\torrents\lang.js has been added
+File src\components\torrents\listener.js has been added
+File src\components\torrents\voices.js has been added
+File src\templates\explorer\button_back.js has been added
+File src\templates\explorer\main.js has been added
+File src\templates\ad\bot.js has been added
+File src\templates\ad\video.js has been added
+File src\templates\empty\content.js has been added
+File src\templates\empty\filter.js has been added
+File src\templates\empty\simple.js has been added
+File src\templates\icons\back.js has been added
+File src\templates\icons\bell_plus.js has been added
+File src\templates\icons\bell.js has been added
+File src\templates\icons\broadcast.js has been added
+File src\templates\icons\card.js has been added
+File src\templates\icons\collection.js has been added
+File src\templates\icons\create_account.js has been added
+File src\templates\icons\empty_bookmarks.js has been added
+File src\templates\icons\empty_history.js has been added
+File src\templates\icons\empty_subscribe.js has been added
+File src\templates\icons\empty_torrents.js has been added
+File src\templates\icons\fire.js has been added
+File src\templates\icons\hd.js has been added
+File src\templates\icons\like.js has been added
+File src\templates\icons\lock.js has been added
+File src\templates\icons\profile.js has been added
+File src\templates\icons\search.js has been added
+File src\templates\icons\settings.js has been added
+File src\templates\icons\sprite.js has been added
+File src\templates\icons\star.js has been added
+File src\templates\icons\text.js has been added
+File src\templates\icons\top.js has been added
+File src\templates\icons\viewed.js has been added
+File src\templates\extensions\block.js has been added
+File src\templates\extensions\info.js has been added
+File src\templates\extensions\main.js has been added
+File src\templates\extensions\recomend.js has been added
+File src\templates\extensions\screensaver.js has been added
+File src\templates\extensions\item.js has been added
+File src\templates\extensions\theme.js has been added
+File src\templates\feed\episode.js has been added
+File src\templates\feed\head.js has been added
+File src\templates\feed\item.js has been added
+File src\templates\player\footer.js has been added
+File src\templates\player\info.js has been added
+File src\templates\player\panel.js has been added
+File src\templates\player\video.js has been added
+File src\templates\full\descr.js has been added
+File src\templates\full\person.js has been added
+File src\templates\full\episode.js has been added
+File src\templates\full\review.js has been added
+File src\templates\full\start_new.js has been added
+File src\templates\torrent\error.js has been added
+File src\templates\torrent\file.js has been added
+File src\templates\torrent\install.js has been added
+File src\templates\torrent\item.js has been added
+File src\templates\torrent\serial.js has been added
+File src\templates\search\main.js has been added
+File src\templates\person\start.js has been added
+File src\templates\settings\account.js has been added
+File src\templates\settings\interface.js has been added
+File src\templates\settings\main.js has been added
+File src\templates\settings\input.js has been added
+File src\templates\settings\more.js has been added
+File src\templates\settings\parser.js has been added
+File src\templates\settings\player.js has been added
+File src\templates\settings\plugins.js has been added
+File src\templates\settings\server.js has been added
+File src\templates\settings\tmdb.js has been added
+File src\templates\items\line.js has been added
+File src\templates\selectbox\box.js has been added
+File src\templates\selectbox\item.js has been added
+File src\templates\selectbox\icon.js has been added
+File plugins\iptv\playlist\item.js has been added
+File plugins\iptv\playlist\main.js has been added
+File src\templates\season\episode.js has been added
+File src\templates\season\info.js has been added
+File src\templates\season\rate.js has been added
+File plugins\halloween\css\style.css has been added
+File plugins\halloween\css\style.scss has been added
+File plugins\iptv\channels\details.js has been added
+File plugins\iptv\channels\icons.js has been added
+File plugins\iptv\channels\main.js has been added
+File plugins\iptv\channels\menu.js has been added
+File plugins\iptv\channels\search.js has been added
+File plugins\collections\css\style.css has been added
+File plugins\collections\css\style.scss has been added
+File plugins\iptv\utils\api.js has been added
+File plugins\iptv\utils\db.js has been added
+File plugins\iptv\utils\epg.js has been added
+File plugins\iptv\utils\favorites.js has been added
+File plugins\iptv\utils\guide.js has been added
+File plugins\iptv\utils\guide_parser.js has been added
+File plugins\iptv\utils\locked.js has been added
+File plugins\iptv\utils\m3u8.js has been added
+File plugins\iptv\utils\main_channel.js has been added
+File plugins\iptv\utils\params.js has been added
+File plugins\iptv\utils\pilot.js has been added
+File plugins\iptv\utils\unpack.js has been added
+File plugins\iptv\utils\url.js has been added
+File plugins\iptv\utils\utils.js has been added
+File plugins\snow\css\style.css has been added
+File plugins\snow\css\style.scss has been added
+File plugins\shots\components\author.js has been added
+File plugins\shots\components\card.js has been added
+File plugins\shots\components\channel.js has been added
+File plugins\shots\components\checkbox.js has been added
+File plugins\shots\components\counter.js has been added
+File plugins\shots\components\list.js has been added
+File plugins\shots\components\present.js has been added
+File plugins\shots\components\preview.js has been added
+File plugins\shots\components\progress.js has been added
+File plugins\shots\components\recorder.js has been added
+File plugins\shots\components\selector.js has been added
+File plugins\shots\components\shot.js has been added
+File plugins\shots\components\slides.js has been added
+File plugins\shots\components\tags.js has been added
+File plugins\shots\components\upload.js has been added
+File plugins\iptv\css\style.css has been added
+File plugins\iptv\css\style.scss has been added
+File plugins\iptv\hud\hud.js has been added
+File plugins\iptv\hud\menu.js has been added
+File plugins\iptv\hud\program.js has been added
+File public\img\ili\bookmarks.png has been added
+File public\img\ili\tv.png has been added
+File public\img\ili\search.png has been added
+File plugins\online_prestige\balansers\collaps.js has been added
+File plugins\online_prestige\balansers\filmix.js has been added
+File plugins\online_prestige\balansers\kinobase.js has been added
+File plugins\online_prestige\balansers\rezka.js has been added
+File plugins\online_prestige\balansers\videocdn.js has been added
+File plugins\online_prestige\css\style.css has been added
+File plugins\online_prestige\css\style.scss has been added
+File public\img\bokeh-h\1.png has been added
+File public\img\bokeh-h\2.png has been added
+File public\img\bokeh-h\3.png has been added
+File public\img\bokeh-h\5.png has been added
+File public\img\bokeh-h\4.png has been added
+File public\img\bokeh-h\6.png has been added
+File plugins\shots\lenta\lenta.js has been added
+File plugins\shots\lenta\panel.js has been added
+File plugins\shots\lenta\video.js has been added
+File plugins\dlna\css\style.css has been added
+File plugins\dlna\css\style.scss has been added
+File public\img\icons\add.svg has been added
+File public\img\icons\check_dark.svg has been added
+File public\img\icons\film.svg has been added
+File public\img\icons\more.svg has been added
+File public\img\icons\pulse.svg has been added
+File public\img\icons\split.svg has been added
+File public\img\icons\time.svg has been added
+File public\img\icons\view.svg has been added
+File plugins\shots\css\style.css has been added
+File plugins\shots\css\style.scss has been added
+File public\img\bokeh\1.png has been added
+File public\img\bokeh\2.png has been added
+File public\img\bokeh\3.png has been added
+File public\img\bokeh\4.png has been added
+File public\img\bokeh\5.png has been added
+File public\img\bokeh\6.png has been added
+File plugins\record\utils\api.js has been added
+File plugins\record\utils\favorites.js has been added
+File plugins\record\utils\player.js has been added
+File plugins\shots\utils\api.js has been added
+File plugins\shots\utils\created.js has been added
+File plugins\shots\utils\favorite.js has been added
+File plugins\shots\utils\handler.js has been added
+File plugins\shots\utils\lang.js has been added
+File plugins\shots\utils\likes.js has been added
+File plugins\shots\utils\metric.js has been added
+File plugins\shots\utils\modals.js has been added
+File plugins\shots\utils\player.js has been added
+File plugins\shots\utils\roll.js has been added
+File plugins\shots\utils\settings.js has been added
+File plugins\shots\utils\tags.js has been added
+File plugins\shots\utils\templates.js has been added
+File plugins\shots\utils\utils.js has been added
+File plugins\shots\utils\view.js has been added
+File plugins\twolines\css\style.css has been added
+File plugins\twolines\css\style.scss has been added
+File plugins\record\css\style.css has been added
+File plugins\record\css\style.scss has been added
+File plugins\womens-day\css\style.css has been added
+File plugins\womens-day\css\style.scss has been added
+File public\fonts\SegoeUI\demo.html has been added
+File public\fonts\SegoeUI\SegoeUI-Bold.eot has been added
+File public\fonts\SegoeUI\SegoeUI-Bold.woff has been added
+File public\fonts\SegoeUI\SegoeUI-BoldItalic.eot has been added
+File public\fonts\SegoeUI\SegoeUI-Bold.ttf has been added
+File public\fonts\SegoeUI\SegoeUI-BoldItalic.ttf has been added
+File public\fonts\SegoeUI\SegoeUI-BoldItalic.woff has been added
+File public\fonts\SegoeUI\SegoeUI-Italic.eot has been added
+File public\fonts\SegoeUI\SegoeUI-Italic.ttf has been added
+File public\fonts\SegoeUI\SegoeUI-Italic.woff has been added
+File public\fonts\SegoeUI\SegoeUI-Light.eot has been added
+File public\fonts\SegoeUI\SegoeUI-Light.ttf has been added
+File public\fonts\SegoeUI\SegoeUI-SemiBold.eot has been added
+File public\fonts\SegoeUI\SegoeUI-Light.woff has been added
+File public\fonts\SegoeUI\SegoeUI-SemiBold.ttf has been added
+File public\fonts\SegoeUI\SegoeUI-SemiBold.woff has been added
+File public\fonts\SegoeUI\SegoeUI.eot has been added
+File public\fonts\SegoeUI\SegoeUI.ttf has been added
+File public\fonts\SegoeUI\stylesheet.css has been added
+File public\fonts\SegoeUI\SegoeUI.woff has been added
+File plugins\tracks\css\style.css has been added
+File plugins\tracks\css\style.scss has been added
+File public\vender\dash\dash.js has been added
+File public\vender\jquery\jquery.js has been added
+File public\vender\notify\notify.js has been added
+File public\vender\hls\hls.js has been added
+File public\vender\navigator\navigator.js has been added
+File public\vender\scrollbar\jquery.scrollbar.css has been added
+File public\vender\scrollbar\jquery.scrollbar.js has been added
+File public\vender\scrollbar\jquery.scrollbar.min.js has been added
+File public\vender\keypad\keypad.js has been added
+File public\vender\keypad\style.css has been added
+File public\vender\qrcode\qrcode.js has been added
+File public\vender\vast\vast.js has been added
+File src\core\api\sources\ai.js has been added
+File src\core\api\sources\cub.js has been added
+File src\core\api\sources\makra.js has been added
+File src\core\api\sources\parser.js has been added
+File src\core\api\sources\tmdb.js has been added
+File src\interaction\card\module\card.js has been added
+File src\interaction\card\module\favorite.js has been added
+File src\interaction\card\module\folder.js has been added
+File src\interaction\card\module\icons.js has been added
+File src\interaction\card\module\lgbt.js has been added
+File src\interaction\card\module\map.js has been added
+File src\interaction\card\module\menu.js has been added
+File src\interaction\card\module\module.js has been added
+File src\interaction\card\module\plugins.js has been added
+File src\interaction\card\module\ratting.js has been added
+File src\interaction\card\module\release.js has been added
+File src\interaction\card\module\style.js has been added
+File src\interaction\card\module\subscribe.js has been added
+File src\interaction\card\module\watched.js has been added
+File src\interaction\empty\module\ai.js has been added
+File src\interaction\empty\module\map.js has been added
+File src\interaction\empty\module\router.js has been added
+File src\interaction\empty\module\simple.js has been added
+File src\interaction\empty\module\module.js has been added
+File src\interaction\company\module\map.js has been added
+File src\interaction\company\module\about.js has been added
+File src\interaction\company\module\module.js has been added
+File src\interaction\discuss\module\add.js has been added
+File src\interaction\discuss\module\line.js has been added
+File src\interaction\discuss\module\map.js has been added
+File src\interaction\discuss\module\module.js has been added
+File src\interaction\discuss\module\read.js has been added
+File src\interaction\person\module\about.js has been added
+File src\interaction\person\module\line.js has been added
+File src\interaction\person\module\map.js has been added
+File src\interaction\person\module\module.js has been added
+File src\interaction\items\line\base.js has been added
+File src\interaction\items\line\line.js has been added
+File src\interaction\episode\module\card.js has been added
+File src\interaction\episode\module\line.js has been added
+File src\interaction\episode\module\map.js has been added
+File src\interaction\episode\module\mark.js has been added
+File src\interaction\episode\module\module.js has been added
+File src\interaction\episode\module\small.js has been added
+File src\interaction\episode\module\small_next.js has been added
+File src\sass\components\person\start.scss has been added
+File src\interaction\items\old\category.js has been added
+File src\interaction\items\old\line.js has been added
+File src\interaction\items\old\main.js has been added
+File src\interaction\items\category\base.js has been added
+File src\interaction\items\category\category.js has been added
+File src\interaction\items\main\base.js has been added
+File src\interaction\items\main\main.js has been added
+File src\interaction\season\module\line.js has been added
+File src\interaction\season\module\map.js has been added
+File src\interaction\season\module\module.js has been added
+File src\interaction\register\module\line.js has been added
+File src\interaction\register\module\map.js has been added
+File src\interaction\register\module\module.js has been added
+File src\sass\components\full\descr.scss has been added
+File src\sass\components\full\episode.scss has been added
+File src\sass\components\full\persons.scss has been added
+File src\sass\components\full\reviews.scss has been added
+File src\sass\components\full\start.scss has been added
+File src\sass\components\full\start_new.scss has been added
+File src\components\full\start\bookmarks.js has been added
+File src\components\full\start\buttons.js has been added
+File src\components\full\start\options.js has been added
+File src\components\full\start\poster.js has been added
+File src\components\full\start\reactios.js has been added
+File src\components\full\start\subscribed.js has been added
+File src\components\full\start\torrents.js has been added
+File src\components\full\start\trailers.js has been added
+File src\components\full\start\translations.js has been added
+File src\sass\components\search\box.scss has been added
+File src\sass\components\search\main.scss has been added
+File src\sass\components\player\footer.scss has been added
+File src\sass\components\player\info.scss has been added
+File src\sass\components\player\panel.scss has been added
+File src\sass\components\player\video.scss has been added
+File src\utils\subsrt\format\ass.js has been added
+File src\utils\subsrt\format\json.js has been added
+File src\utils\subsrt\format\lrc.js has been added
+File src\utils\subsrt\format\sbv.js has been added
+File src\utils\subsrt\format\smi.js has been added
+File src\utils\subsrt\format\srt.js has been added
+File src\utils\subsrt\format\ssa.js has been added
+File src\utils\subsrt\format\sub.js has been added
+File src\utils\subsrt\format\vtt.js has been added
+File src\templates\player\footer\card.js has been added
+File src\sass\components\selectbox\box.scss has been added
+File src\sass\components\selectbox\item.scss has been added
+File public\img\icons\menu\bookmark.svg has been added
+File public\img\icons\menu\browse.svg has been added
+File public\img\icons\menu\catalog.svg has been added
+File public\img\icons\menu\home.svg has been added
+File public\img\icons\menu\hourglass.svg has been added
+File public\img\icons\menu\info.svg has been added
+File public\img\icons\menu\like.svg has been added
+File public\img\icons\menu\movie.svg has been added
+File public\img\icons\menu\settings.svg has been added
+File public\img\icons\menu\time.svg has been added
+File public\img\icons\menu\tv.svg has been added
+File public\img\icons\settings\more.svg has been added
+File public\img\icons\settings\panel.svg has been added
+File public\img\icons\settings\parser.svg has been added
+File public\img\icons\settings\player.svg has been added
+File public\img\icons\settings\server.svg has been added
+File public\img\icons\android\android-launchericon-144-144.png has been added
+File public\img\icons\android\android-launchericon-192-192.png has been added
+File public\img\icons\android\android-launchericon-48-48.png has been added
+File public\img\icons\android\android-launchericon-512-512.png has been added
+File public\img\icons\android\android-launchericon-72-72.png has been added
+File public\img\icons\android\android-launchericon-96-96.png has been added
+File src\templates\torrent\errors\nocheck.js has been added
+File src\templates\torrent\errors\noconnect.js has been added
+File src\templates\torrent\errors\nohash.js has been added
+File public\img\icons\ios\100.png has been added
+File public\img\icons\ios\1024.png has been added
+File public\img\icons\ios\114.png has been added
+File public\img\icons\ios\120.png has been added
+File public\img\icons\ios\128.png has been added
+File public\img\icons\ios\152.png has been added
+File public\img\icons\ios\16.png has been added
+File public\img\icons\ios\167.png has been added
+File public\img\icons\ios\180.png has been added
+File public\img\icons\ios\20.png has been added
+File public\img\icons\ios\256.png has been added
+File public\img\icons\ios\29.png has been added
+File public\img\icons\ios\32.png has been added
+File public\img\icons\ios\40.png has been added
+File public\img\icons\ios\50.png has been added
+File public\img\icons\ios\57.png has been added
+File public\img\icons\ios\58.png has been added
+File public\img\icons\ios\60.png has been added
+File public\img\icons\ios\64.png has been added
+File public\img\icons\ios\76.png has been added
+File public\img\icons\ios\80.png has been added
+File public\img\icons\ios\87.png has been added
+File public\img\icons\keyboard\abc.svg has been added
+File public\img\icons\keyboard\bksp.svg has been added
+File public\img\icons\keyboard\lang.svg has been added
+File public\img\icons\keyboard\enter.svg has been added
+File public\img\icons\keyboard\space.svg has been added
+File public\img\icons\keyboard\sym.svg has been added
+File public\img\icons\keyboard\up.svg has been added
+File public\img\icons\player\next.svg has been added
+File public\img\icons\player\pause.svg has been added
+File public\img\icons\player\play.svg has been added
+File public\img\icons\player\playlist.svg has been added
+File public\img\icons\player\prev.svg has been added
+File public\img\icons\player\size.svg has been added
+File public\img\icons\player\subs.svg has been added
+File src\interaction\items\main\module\callback.js has been added
+File src\interaction\items\main\module\create.js has been added
+File src\interaction\items\main\module\items.js has been added
+File src\interaction\items\main\module\map.js has been added
+File src\interaction\items\main\module\module.js has been added
+File src\interaction\items\main\module\next.js has been added
+File src\interaction\items\category\module\create.js has been added
+File src\interaction\items\category\module\explorer.js has been added
+File src\interaction\items\category\module\loading.js has been added
+File src\interaction\items\category\module\items.js has been added
+File src\interaction\items\category\module\map.js has been added
+File src\interaction\items\category\module\module.js has been added
+File src\interaction\items\category\module\next.js has been added
+File src\interaction\items\category\module\pagination.js has been added
+File src\interaction\items\line\module\create.js has been added
+File src\interaction\items\line\module\event.js has been added
+File src\interaction\items\line\module\icon.js has been added
+File src\interaction\items\line\module\items.js has been added
+File src\interaction\items\line\module\map.js has been added
+File src\interaction\items\line\module\module.js has been added
+File src\interaction\items\line\module\more.js has been added
+File src\interaction\items\line\module\more_first.js has been added
+[[90m12:21:33[39m] Starting 'merge'...
+[[90m12:21:33[39m] Finished 'merge' after 4.19 ms
+[[90m12:21:33[39m] Starting 'plugins'...
+[[90m12:21:33[39m] Finished 'plugins' after 16 ms
+[[90m12:21:33[39m] Starting 'sass_task'...
+File plugins\collections\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File public\css\app.css has been changed
+[Browsersync] 1 file changed (app.css)
+[[90m12:21:35[39m] Finished 'sass_task' after 2.31 s
+[[90m12:21:35[39m] Starting 'lang_task'...
+File plugins\online_prestige\css\style.css has been changed
+File public\css\app.css has been changed
+[[90m12:21:40[39m] Finished 'lang_task' after 4.26 s
+[[90m12:21:40[39m] Starting 'sync_web'...
+[[90m12:21:42[39m] Finished 'sync_web' after 2.84 s
+[[90m12:21:42[39m] Starting 'build_web'...
+[[90m12:21:42[39m] Finished 'build_web' after 801 μs
+File src\components\full\descr.js has been changed
+[[90m13:05:34[39m] Starting 'merge'...
+[[90m13:05:34[39m] Finished 'merge' after 2.38 ms
+[[90m13:05:34[39m] Starting 'plugins'...
+[[90m13:05:34[39m] Finished 'plugins' after 9.59 ms
+[[90m13:05:34[39m] Starting 'sass_task'...
+File plugins\collections\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File public\css\app.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+[Browsersync] 1 file changed (app.css)
+[[90m13:05:37[39m] Finished 'sass_task' after 2.86 s
+[[90m13:05:37[39m] Starting 'lang_task'...
+[[90m13:05:40[39m] Finished 'lang_task' after 3.29 s
+[[90m13:05:40[39m] Starting 'sync_web'...
+[[90m13:05:42[39m] Finished 'sync_web' after 1.96 s
+[[90m13:05:42[39m] Starting 'build_web'...
+[[90m13:05:42[39m] Finished 'build_web' after 457 μs
+File src\components\full.js has been changed
+[[90m13:05:51[39m] Starting 'merge'...
+[[90m13:05:51[39m] Finished 'merge' after 1.67 ms
+[[90m13:05:51[39m] Starting 'plugins'...
+[[90m13:05:51[39m] Finished 'plugins' after 8.28 ms
+[[90m13:05:51[39m] Starting 'sass_task'...
+File plugins\online_prestige\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\collections\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File public\css\app.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+[Browsersync] 1 file changed (app.css)
+[[90m13:05:53[39m] Finished 'sass_task' after 2.41 s
+[[90m13:05:53[39m] Starting 'lang_task'...
+File plugins\halloween\css\style.css has been changed
+File plugins\collections\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+[[90m13:05:57[39m] Finished 'lang_task' after 3.13 s
+[[90m13:05:57[39m] Starting 'sync_web'...
+File src\core\api\sources\makra.js has been changed
+[[90m13:05:58[39m] Finished 'sync_web' after 1.69 s
+[[90m13:05:58[39m] Starting 'build_web'...
+[[90m13:05:58[39m] Finished 'build_web' after 628 μs
+[[90m13:06:02[39m] Starting 'merge'...
+[[90m13:06:02[39m] Finished 'merge' after 1.28 ms
+[[90m13:06:02[39m] Starting 'plugins'...
+[[90m13:06:02[39m] Finished 'plugins' after 7.81 ms
+[[90m13:06:02[39m] Starting 'sass_task'...
+File plugins\collections\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File public\css\app.css has been changed
+[Browsersync] 1 file changed (app.css)
+[[90m13:06:05[39m] Finished 'sass_task' after 2.51 s
+[[90m13:06:05[39m] Starting 'lang_task'...
+File plugins\collections\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File public\css\app.css has been changed
+[[90m13:06:08[39m] Finished 'lang_task' after 3.13 s
+[[90m13:06:08[39m] Starting 'sync_web'...
+[[90m13:06:09[39m] Finished 'sync_web' after 1.66 s
+[[90m13:06:09[39m] Starting 'build_web'...
+[[90m13:06:09[39m] Finished 'build_web' after 517 μs
+File plugins\collections\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File public\css\app.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File public\css\app.css has been changed
+File src\core\api\sources\makra.js has been changed
+[[90m13:49:28[39m] Starting 'merge'...
+[[90m13:49:28[39m] Finished 'merge' after 1.58 ms
+[[90m13:49:28[39m] Starting 'plugins'...
+[[90m13:49:28[39m] Finished 'plugins' after 13 ms
+[[90m13:49:28[39m] Starting 'sass_task'...
+File plugins\record\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\collections\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File public\css\app.css has been changed
+File plugins\twolines\css\style.css has been changed
+[Browsersync] 1 file changed (app.css)
+[[90m13:49:30[39m] Finished 'sass_task' after 2.1 s
+[[90m13:49:30[39m] Starting 'lang_task'...
+File plugins\dlna\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\collections\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+[[90m13:49:34[39m] Finished 'lang_task' after 3.88 s
+[[90m13:49:34[39m] Starting 'sync_web'...
+[[90m13:49:36[39m] Finished 'sync_web' after 1.58 s
+[[90m13:49:36[39m] Starting 'build_web'...
+[[90m13:49:36[39m] Finished 'build_web' after 645 μs
+File src\components\full\start\torrents.js has been changed
+[[90m13:49:41[39m] Starting 'merge'...
+[[90m13:49:41[39m] Finished 'merge' after 1.31 ms
+[[90m13:49:41[39m] Starting 'plugins'...
+[[90m13:49:41[39m] Finished 'plugins' after 9.13 ms
+[[90m13:49:41[39m] Starting 'sass_task'...
+File plugins\iptv\css\style.css has been changed
+File plugins\collections\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File public\css\app.css has been changed
+File plugins\womens-day\css\style.css has been changed
+[Browsersync] 1 file changed (app.css)
+[[90m13:49:44[39m] Finished 'sass_task' after 2.49 s
+[[90m13:49:44[39m] Starting 'lang_task'...
+File plugins\collections\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+[[90m13:49:47[39m] Finished 'lang_task' after 3.25 s
+[[90m13:49:47[39m] Starting 'sync_web'...
+[[90m13:49:49[39m] Finished 'sync_web' after 1.53 s
+[[90m13:49:49[39m] Starting 'build_web'...
+[[90m13:49:49[39m] Finished 'build_web' after 504 μs
+File plugins\dlna\css\style.css has been changed
+File plugins\collections\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File public\css\app.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File public\css\app.css has been changed
+File plugins\twolines\css\style.css has been changed
+File src\components\full\start\torrents.js has been changed
+[[90m13:57:43[39m] Starting 'merge'...
+[[90m13:57:43[39m] Finished 'merge' after 2 ms
+[[90m13:57:43[39m] Starting 'plugins'...
+[[90m13:57:43[39m] Finished 'plugins' after 19 ms
+[[90m13:57:43[39m] Starting 'sass_task'...
+File plugins\collections\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File public\css\app.css has been changed
+File plugins\dlna\css\style.css has been changed
+[Browsersync] 1 file changed (app.css)
+[[90m13:57:47[39m] Finished 'sass_task' after 4.29 s
+[[90m13:57:47[39m] Starting 'lang_task'...
+File plugins\iptv\css\style.css has been changed
+File plugins\collections\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+[[90m13:57:52[39m] Finished 'lang_task' after 5.05 s
+[[90m13:57:52[39m] Starting 'sync_web'...
+[[90m13:57:55[39m] Finished 'sync_web' after 2.96 s
+[[90m13:57:55[39m] Starting 'build_web'...
+[[90m13:57:55[39m] Finished 'build_web' after 553 μs
+File plugins\dlna\css\style.css has been changed
+File plugins\collections\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File public\css\app.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File public\css\app.css has been changed
+File src\config\makra.js has been changed
+[[90m14:25:46[39m] Starting 'merge'...
+[[90m14:25:46[39m] Finished 'merge' after 2.55 ms
+[[90m14:25:46[39m] Starting 'plugins'...
+[[90m14:25:46[39m] Finished 'plugins' after 15 ms
+[[90m14:25:46[39m] Starting 'sass_task'...
+File plugins\collections\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File public\css\app.css has been changed
+File public\css\app.css has been changed
+[Browsersync] 1 file changed (app.css)
+[[90m14:25:49[39m] Finished 'sass_task' after 2.86 s
+[[90m14:25:49[39m] Starting 'lang_task'...
+File plugins\collections\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+[[90m14:25:56[39m] Finished 'lang_task' after 6.64 s
+[[90m14:25:56[39m] Starting 'sync_web'...
+File src\core\api\sources\makra.js has been changed
+[[90m14:26:00[39m] Finished 'sync_web' after 4.01 s
+[[90m14:26:00[39m] Starting 'build_web'...
+[[90m14:26:00[39m] Finished 'build_web' after 556 μs
+[[90m14:26:01[39m] Starting 'merge'...
+[[90m14:26:01[39m] Finished 'merge' after 1.59 ms
+[[90m14:26:01[39m] Starting 'plugins'...
+[[90m14:26:01[39m] Finished 'plugins' after 14 ms
+[[90m14:26:01[39m] Starting 'sass_task'...
+File plugins\collections\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File public\css\app.css has been changed
+[Browsersync] 1 file changed (app.css)
+[[90m14:26:04[39m] Finished 'sass_task' after 2.94 s
+[[90m14:26:04[39m] Starting 'lang_task'...
+File plugins\collections\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+[[90m14:26:10[39m] Finished 'lang_task' after 6.13 s
+[[90m14:26:10[39m] Starting 'sync_web'...
+[[90m14:26:13[39m] Finished 'sync_web' after 2.26 s
+[[90m14:26:13[39m] Starting 'build_web'...
+[[90m14:26:13[39m] Finished 'build_web' after 610 μs
+File plugins\collections\css\style.css has been changed
+File plugins\iptv\css\style.css has been changed
+File plugins\record\css\style.css has been changed
+File plugins\shots\css\style.css has been changed
+File plugins\halloween\css\style.css has been changed
+File plugins\twolines\css\style.css has been changed
+File plugins\online_prestige\css\style.css has been changed
+File plugins\tracks\css\style.css has been changed
+File plugins\womens-day\css\style.css has been changed
+File plugins\snow\css\style.css has been changed
+File plugins\dlna\css\style.css has been changed
+File public\css\app.css has been changed
+File plugins\snow\css\style.css has been changed
+File public\css\app.css has been changed
