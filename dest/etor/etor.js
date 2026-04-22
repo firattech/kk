@@ -1,0 +1,12 @@
+(function () {
+	'use strict';
+
+	//Не нужно переписывать весь этот код, не делайте так!
+	//for Lampa.
+	window.lampa_settings.torrents_use = true;
+	window.lampa_settings.demo = false;
+	window.lampa_settings.read_only = false;
+
+})();
+
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZXRvci5qcyIsInNvdXJjZXMiOlsiZXRvci9ldG9yLmpzIl0sInNvdXJjZXNDb250ZW50IjpbIi8v0J3QtSDQvdGD0LbQvdC+INC/0LXRgNC10L/QuNGB0YvQstCw0YLRjCDQstC10YHRjCDRjdGC0L7RgiDQutC+0LQsINC90LUg0LTQtdC70LDQudGC0LUg0YLQsNC6IVxuLy9mb3IgTGFtcGEuXG53aW5kb3cubGFtcGFfc2V0dGluZ3MudG9ycmVudHNfdXNlID0gdHJ1ZVxud2luZG93LmxhbXBhX3NldHRpbmdzLmRlbW8gPSBmYWxzZVxud2luZG93LmxhbXBhX3NldHRpbmdzLnJlYWRfb25seSA9IGZhbHNlIl0sIm5hbWVzIjpbIndpbmRvdyIsImxhbXBhX3NldHRpbmdzIiwidG9ycmVudHNfdXNlIiwiZGVtbyIsInJlYWRfb25seSJdLCJtYXBwaW5ncyI6Ijs7O0NBQUE7Q0FDQTtDQUNBQSxNQUFNLENBQUNDLGNBQWMsQ0FBQ0MsWUFBWSxHQUFHLElBQUk7Q0FDekNGLE1BQU0sQ0FBQ0MsY0FBYyxDQUFDRSxJQUFJLEdBQUcsS0FBSztDQUNsQ0gsTUFBTSxDQUFDQyxjQUFjLENBQUNHLFNBQVMsR0FBRyxLQUFLOzs7Ozs7In0=
